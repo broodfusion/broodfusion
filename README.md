@@ -5,7 +5,8 @@ My previous experiences include working at companies such as [Cogility Software]
 
 ## About Me
 
-- 🔭 I’m currently working on: our enterprise SaaS application [Verus](https://leotechnologies.com/verus/).
+- 🌎 My [website](https://shawnhliang.com/)
+- 🔭 I’m currently working on: LeoTech's enterprise SaaS application [Verus](https://leotechnologies.com/verus/).
 - 🌱 I’m currently learning: [OpenAI](https://openai.com/) and trying to build fullstack app with it in [NextJS](https://nextjs.org/).
 - 🤔 New tech I want to learn next: A new programming language (Rust, Golang, Python), Unity or Unreal 5.
 - 📫 How to reach me: `broodfusion@gmail.com`
